@@ -2,6 +2,9 @@
 
 Light UI theme with a clean, modern look. Designed to pair with [one-day-syntax](https://github.com/asiloisad-pulsar/one-day-syntax).
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [one-theme](https://github.com/lumine-code/one-theme).
+
 ![view-1](https://github.com/asiloisad-pulsar/one-day-ui/blob/master/assets/view-1.png?raw=true)
 
 ![view-2](https://github.com/asiloisad-pulsar/one-day-ui/blob/master/assets/view-2.png?raw=true)
